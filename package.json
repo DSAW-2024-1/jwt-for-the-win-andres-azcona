@@ -1,0 +1,18 @@
+{
+  "name": "jwt-for-the-win-andres-azcona",
+  "version": "1.0.0",
+  "description": "Desarrollo de Aplicaciones Web\r NOMBRE_DE_LOS_ESTUDIANTES\r Andres Azcona\r 2024 - I",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Andres Azcona",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {}
+}
